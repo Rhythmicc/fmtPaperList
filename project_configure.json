@@ -1,0 +1,16 @@
+{
+ "build": "",
+ "entry_point": "fmtPaperList/main.py",
+ "executable": "python3 -m fmtPaperList.main",
+ "input_file": "dist/input.txt",
+ "template_root": "template/",
+ "server_targets": [
+  {
+   "user": "",
+   "host": "",
+   "port": 22,
+   "path": ""
+  }
+ ],
+ "enable_complete": true
+}
